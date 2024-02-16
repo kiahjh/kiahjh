@@ -6,5 +6,3 @@ Currently mostly working on [Gertrude](https://gertrude.app), a macOS internet s
 On top of this I also have a handful of ongoing open source projects, including the following:
 - [devine](https://github.com/kiahjh/devine) - delightful dev tools for react
 - [next-bg-image](https://github.com/kiahjh/next-bg-image) - responsive, optimized, and accessible background image component for Next.js apps
-
-[Sponsor my work 💖](https://github.com/sponsors/kiahjh)
