@@ -1,5 +1,5 @@
 ### Hi! 👋
 
-20-year-old developer and musician working and teaching from his bedroom in Ohio.
+I'm a developer and musician.
 
-Currently working on a [hardcore resolution-keeping app](https://resolveapp.net) and a [programming language](https://github.com/kiahjh/lovely).
+Currently working on a [collaborative resolution-keeping app](https://resolveapp.net).
